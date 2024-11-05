@@ -119,7 +119,7 @@
 				<version>3.3.2</version>
 				<configuration>
 					<to>
-						<image>aloksachan/${project.artifactId}:v2</image>
+						<image>aloksachan/${project.artifactId}:gatewayserver</image>
 					</to>
 				</configuration>
 			</plugin>

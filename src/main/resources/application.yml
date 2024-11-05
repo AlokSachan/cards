@@ -48,3 +48,8 @@ info:
     name: "cards"
     description: "ABC Bank Cards Application"
     version: 1.0.0
+logging:
+  level:
+    com:
+      alok:
+        cards: DEBUG
